@@ -98,3 +98,6 @@ private val  image_ids = listOf(
     R.drawable.dice_5,
     R.drawable.dice_6
 )
+
+
+
